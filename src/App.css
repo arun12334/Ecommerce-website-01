@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+    /* margin-top: 100px; */
+    background-color: #00ffe7;
+  }
+ 
+  
+  button {
+    margin: 10px;
+  }
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+     
+
+.user_name{
+margin-top: 30px;
+}
+.login_page > h1{
+    color: black;
+}
+ 
+.user_name{
+    width: 450px !important; 
+}
